@@ -11,8 +11,7 @@
 
 
 ## Description
-An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. See following video for demonstration
-https://youtu.be/LB5rPG9yBfg
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
 
 ## Installation
 Clone repo onto your local machine. Go into the terminal in the root directory of the repo and type NPM I
